@@ -1,9 +1,6 @@
-title: Intro to SQL
-author:
-  name: Angela Zoss
-  email: angela.zoss@duke.edu
-description: > # this means to ignore newlines until "show_excerpts:"
-  Slides that accompany the Library Carpentry SQL lesson
+title: "intro-to-sql"
+author: "Angela Zoss"
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,8 +10,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - sql_slides.md
 
 # Build settings
 theme: minima
