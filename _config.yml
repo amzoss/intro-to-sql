@@ -22,3 +22,8 @@ theme: minima
 #plugins:
 # - jekyll-feed
 # - jekyll-seo-tag
+
+collections:
+  sql:
+    output: true
+    permalink: /sql/index.html
