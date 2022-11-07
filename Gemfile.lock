@@ -255,9 +255,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 227)
-  jekyll
   minima
-  webrick
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.25

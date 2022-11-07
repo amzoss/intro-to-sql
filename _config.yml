@@ -25,5 +25,4 @@ theme: minima
 
 collections:
   sql:
-    output: true
-    permalink: /sql/index.html
+    output: false
