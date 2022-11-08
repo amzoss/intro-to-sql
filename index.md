@@ -2,7 +2,7 @@
 title: Introduction to SQL
 ---
 
-[Slides for Introduction to SQL](/sql)
+[Slides for Introduction to SQL]({{ '/sql' | relative_url }})
 
 ## Attribution
 
